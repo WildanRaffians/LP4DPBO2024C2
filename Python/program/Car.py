@@ -3,8 +3,8 @@ from Vehicle import Vehicle
 
 class Car(Vehicle):
     __model=""
-    jumlahKursi=0
-    jumlahPintu=0
+    __jumlahKursi=0
+    __jumlahPintu=0
     
     # Constructor
     def __init__(self, model="", jumlahKursi=0, jumlahPintu=0, platNomor="", nama="", merk="", tahunProduksi=0, warna="", jenisTransmisi="") : 
