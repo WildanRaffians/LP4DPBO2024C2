@@ -1,4 +1,4 @@
-![ss1](https://github.com/WildanRaffians/LP4DPBO2024C2/assets/134181656/4adf146c-7bcf-4866-ac91-41c7ce438fae)<h1>LP4DPBO2024C2</h1>
+<h1>LP4DPBO2024C2</h1>
 <h3>Janji</h3>
 Saya Wildan Hafizh Raffianshar NIM [2202301] mengerjakan soal Latihan Praktikum-4 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
