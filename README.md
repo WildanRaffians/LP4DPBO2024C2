@@ -16,7 +16,10 @@ ParkingLot : lokasi, tipe, jam operasi
 
 <h3>Desain Program</h3>
 
-![image](https://github.com/WildanRaffians/LP4DPBO2024C2/assets/134181656/03f3b5ff-3300-4fb9-a30c-0344e5f98a96)
+![DPBOLP4 (2)](https://github.com/WildanRaffians/LP4DPBO2024C2/assets/134181656/90e9c9ce-4b3e-43e0-b272-f46ac251a666)
+
+
+
 
 
 Pada program ini terdapat 7 kelas, yaitu: Vehicle, Car, Motorcycle, Parking, Garage, dan Parkinglot. 
