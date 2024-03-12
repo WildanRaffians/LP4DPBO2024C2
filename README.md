@@ -1,6 +1,6 @@
 <h1>LP4DPBO2024C2</h1>
 <h3>Janji</h3>
-Saya Wildan Hafizh Raffianshar NIM [2202301] mengerjakan soal Latihan Praktikum-4 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin![image](https://github.com/WildanRaffians/LP4DPBO2024C2/assets/134181656/30f3ff20-4aeb-4676-b77b-c99e112610cd)
+Saya Wildan Hafizh Raffianshar NIM [2202301] mengerjakan soal Latihan Praktikum-4 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin![image]
 
 
 <h3>Deskripsi</h3>
