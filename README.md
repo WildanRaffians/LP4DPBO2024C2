@@ -15,6 +15,7 @@ ParkingLot : lokasi, tipe, jam operasi
 
 
 <h3>Desain Program</h3>
+
 ![image](https://github.com/WildanRaffians/LP4DPBO2024C2/assets/134181656/03f3b5ff-3300-4fb9-a30c-0344e5f98a96)
 
 
@@ -55,6 +56,9 @@ Jika memilih menampilkan parkiran maka akan ditampilkan daftar parkiran. Lalu ak
 
 
 <h3>Dokumentasi Program</h3>
+
 ![ss1](https://github.com/WildanRaffians/LP4DPBO2024C2/assets/134181656/a63afa56-d14d-4fdc-9d87-f441d8dfd441)
+
 ![ss2](https://github.com/WildanRaffians/LP4DPBO2024C2/assets/134181656/16be1c1e-516d-4ef5-a856-bf488df2908e)
+
 ![ss3](https://github.com/WildanRaffians/LP4DPBO2024C2/assets/134181656/94d37334-b5a1-418a-9ef9-d50901c1849f)
