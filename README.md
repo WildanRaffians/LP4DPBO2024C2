@@ -14,7 +14,8 @@ ParkingLot : lokasi, tipe, jam operasi
 
 
 <h3>Desain Program</h3>
-![image](https://github.com/WildanRaffians/LP4DPBO2024C2/assets/134181656/896b0069-4dcc-44fb-a7db-6ac75f5eca46)
+![image](https://github.com/WildanRaffians/LP4DPBO2024C2/assets/134181656/03f3b5ff-3300-4fb9-a30c-0344e5f98a96)
+
 
 Pada program ini terdapat 7 kelas, yaitu: Vehicle, Car, Motorcycle, Parking, Garage, dan Parkinglot. 
 Car dan Motorcycle merupakan anak dari Vehicle, karena meeka merupakan jenis yang sama dan setiap atribut pada vehicle dapat digunakan oleh Car maupun Motorcycle.
